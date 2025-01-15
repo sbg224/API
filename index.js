@@ -30,7 +30,6 @@ app.get("/city/:id", (req, res) => {
 });
 
 
-
 app.get("/destinations/filter/capacity/:capacity", (req, res) => {
   const capacity = Number.parseInt(req.params.capacity, 10);
   const filtered = datas.filter(destination =>

@@ -1,7 +1,8 @@
 const datas = [
   {
     id: 0,
-    name: "Paris",
+    departure: "Paris",
+    destination: "Lyon",
     description: "La ville lumière, célèbre pour sa Tour Eiffel et ses soirées inoubliables.",
     images: ["paris1.jpg", "paris2.jpg", "paris3.jpg", "paris4.jpg"],
     drivers: [
@@ -13,14 +14,13 @@ const datas = [
       { model: "Volvo 9700", capacity: 50, amenities: ["Ecran géant", "Bar intégré", "Karaoké"] },
     ],
     schedules: [
-      { date: "2025-01-15", time: "22:00" },
-      { date: "2025-01-20", time: "23:00" },
-      { date: "2025-01-25", time: "00:10" },
+      { date: "31/12/2025", time: "22:00" },
     ],
   },
   {
     id: 1,
-    name: "Marseille",
+    departure: "Marseille",
+    destination: "Toulouse",
     description: "La cité phocéenne, réputée pour son vieux port et sa bouillabaisse.",
     images: ["marseille1.jpg", "marseille2.jpg", "marseille3.jpg", "marseille4.jpg"],
     drivers: [
@@ -32,9 +32,7 @@ const datas = [
       { model: "Iveco Daily", capacity: 20, amenities: ["Eclairage LED", "Prises USB", "Sonorisation"] },
     ],
     schedules: [
-      { date: "2025-01-15", time: "22:00" },
-      { date: "2025-01-20", time: "23:00" },
-      { date: "2025-01-25", time: "01:00" },
+      { date: "07/11/2025", time: "21:30" },
     ],
   },
   {

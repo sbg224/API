@@ -9,7 +9,7 @@ const app = express();
 app.use(cors())
 
 app.get("/", (req, res) => {
-  res.json(datas);
+  res.status(200).json(datas);
 });
 
 

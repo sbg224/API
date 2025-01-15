@@ -1,13 +1,16 @@
 import express from "express";
 import cors from 'cors'
 import datas from './Datas.js';
+import path from 'node:path';
 
 const app = express();
+
+const pub = path.join(process.cwd(),"public")
 
 // app.use(cors({ origin: ["http://localhost:5173", "https://web.postman.co/"] }))
 
 app.use(cors())
-
+app.use("/static", express.static(pub))
 app.get("/", (req, res) => {
   res.json(datas);
 });

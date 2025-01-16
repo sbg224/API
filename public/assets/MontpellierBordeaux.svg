@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 487.69 311.22">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fcfada;
+      }
+
+      .cls-2 {
+        font-family: Inter-Bold, Inter;
+        font-variation-settings: 'opsz' 14, 'wght' 700;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 60px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-family: Inter-ExtraBold, Inter;
+        font-variation-settings: 'opsz' 14, 'wght' 800;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <text class="cls-3" transform="translate(0 51.83)"><tspan x="0" y="0">Montpellier</tspan></text>
+      <g>
+        <path class="cls-1" d="M165.73,161.12h0c-15.47,0-28.02-40.7-28.02-56.17h0c0-15.47,12.54-28.02,28.02-28.02h0c15.47,0,28.02,12.54,28.02,28.02h0c0,15.47-12.54,56.17-28.02,56.17ZM188.94,105.69h0c0-12.82-10.39-23.21-23.21-23.21h0c-12.82,0-23.21,10.39-23.21,23.21h0c0,12.82,10.39,46.54,23.21,46.54h0c12.82,0,23.21-33.72,23.21-46.54Z"/>
+        <path class="cls-1" d="M165.73,125.82h0c-11.15,0-20.19-9.04-20.19-20.19h0c0-11.15,9.04-20.19,20.19-20.19h0c11.15,0,20.19,9.04,20.19,20.19h0c0,11.15-9.04,20.19-20.19,20.19ZM182.93,103.6h0c0-9.5-7.7-17.2-17.2-17.2h0c-9.5,0-17.2,7.7-17.2,17.2h0c0,9.5,7.7,17.2,17.2,17.2h0c9.5,0,17.2-7.7,17.2-17.2Z"/>
+        <rect class="cls-1" x="158.79" y="96.67" width="13.87" height="13.87" rx="6.94" ry="6.94"/>
+      </g>
+      <g>
+        <path class="cls-1" d="M347.14,228.89h0c-15.47,0-28.02-40.7-28.02-56.17h0c0-15.47,12.54-28.02,28.02-28.02h0c15.47,0,28.02,12.54,28.02,28.02h0c0,15.47-12.54,56.17-28.02,56.17ZM370.35,173.47h0c0-12.82-10.39-23.21-23.21-23.21h0c-12.82,0-23.21,10.39-23.21,23.21h0c0,12.82,10.39,46.54,23.21,46.54h0c12.82,0,23.21-33.72,23.21-46.54Z"/>
+        <path class="cls-1" d="M347.14,193.6h0c-11.15,0-20.19-9.04-20.19-20.19h0c0-11.15,9.04-20.19,20.19-20.19h0c11.15,0,20.19,9.04,20.19,20.19h0c0,11.15-9.04,20.19-20.19,20.19ZM364.35,171.38h0c0-9.5-7.7-17.2-17.2-17.2h0c-9.5,0-17.2,7.7-17.2,17.2h0c0,9.5,7.7,17.2,17.2,17.2h0c9.5,0,17.2-7.7,17.2-17.2Z"/>
+        <rect class="cls-1" x="340.21" y="164.44" width="13.87" height="13.87" rx="6.94" ry="6.94"/>
+      </g>
+      <rect class="cls-1" x="242.02" y="188.58" width="13.96" height="13.96" rx="6.98" ry="6.98"/>
+      <rect class="cls-1" x="209.65" y="176.61" width="13.96" height="13.96" rx="6.98" ry="6.98"/>
+      <rect class="cls-1" x="279.6" y="202.54" width="13.96" height="13.96" rx="6.98" ry="6.98"/>
+      <rect class="cls-1" x="177.28" y="164.4" width="13.96" height="13.96" rx="6.98" ry="6.98"/>
+      <rect class="cls-1" x="309.98" y="215.93" width="13.96" height="13.96" rx="6.98" ry="6.98"/>
+      <text class="cls-2" transform="translate(203.66 291.88)"><tspan x="0" y="0">Bo</tspan><tspan class="cls-4" x="76.49" y="0">r</tspan><tspan x="99.46" y="0">d</tspan><tspan class="cls-5" x="137.29" y="0">e</tspan><tspan x="173.61" y="0">aux</tspan></text>
+    </g>
+  </g>
+</svg>

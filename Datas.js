@@ -3,7 +3,7 @@ const datas = [
     id: 0,
     departure: "Paris",
     destination: "Lyon",
-    FavIc:"https://api-9ut4.onrender.com/static/assets/Essais1.svg",
+    FavIc:"https://api-9ut4.onrender.com/static/assets/ParIsLyon.svg",
     description: "La ville lumière, célèbre pour sa Tour Eiffel et ses soirées inoubliables.",
     images: "https://api-9ut4.onrender.com/static/assets/Paris.jpg",
     drivers: [
@@ -22,7 +22,7 @@ const datas = [
     id: 1,
     departure: "Toulouse",
     destination: "Nice",
-    FavIc:"https://api-9ut4.onrender.com/static/assets/Toulouse:Nice.png",
+    FavIc:"https://api-9ut4.onrender.com/static/assets/ToulouseNice.svg",
     description: "La cité phocéenne, réputée pour son vieux port et sa bouillabaisse.",
     images: "https://api-9ut4.onrender.com/static/assets/Toulouse.jpg",
     drivers: [
@@ -41,7 +41,7 @@ const datas = [
     id: 2,
     departure: "Marseille",
     destination: "Toulouse",
-    FavIc:"https://api-9ut4.onrender.com/static/assets/Marseille:Toulouse.png",
+    FavIc:"https://api-9ut4.onrender.com/static/assets/MarseilleToulouse.svg",
     description: "La capitale de la gastronomie française, située entre deux fleuves.",
     images: "https://api-9ut4.onrender.com/static/assets/Marseille.jpg",
     drivers: [
@@ -60,7 +60,7 @@ const datas = [
     id: 3,
     departure: "Nantes",
     destination: "Toulouse",
-    FavIc:"https://api-9ut4.onrender.com/static/assets/Nantes:Toulouse.png",
+    FavIc:"https://api-9ut4.onrender.com/static/assets/NantesToulouse.svg",
     description: "La ville rose, connue pour son industrie aéronautique et ses charmantes rues.",
     images: "https://api-9ut4.onrender.com/static/assets/Nantes.jpg",
     drivers: [
@@ -79,7 +79,7 @@ const datas = [
     id: 4,
     departure: "Nantes",
     destination: "Nice",
-    FavIc:"https://api-9ut4.onrender.com/static/assets/Nantes:Nice.png",
+    FavIc:"https://api-9ut4.onrender.com/static/assets/NantesNice.svg",
     description: "Ville méditerranéenne célèbre pour sa promenade des Anglais et ses plages.",
     images: "https://api-9ut4.onrender.com/static/assets/Nice.jpg",
     drivers: [
@@ -98,7 +98,7 @@ const datas = [
     id: 5,
     departure: "Strasbourg",
     destination: "Nice",
-    FavIc:"https://api-9ut4.onrender.com/static/assets/Strasbourg:Nice.png",
+    FavIc:"https://api-9ut4.onrender.com/static/assets/StrasbourgNice.svg",
     description: "Une ville dynamique avec des machines géantes et une riche culture.",
     images: "https://api-9ut4.onrender.com/static/assets/Strasbourg.jpg",
     drivers: [
@@ -117,7 +117,7 @@ const datas = [
     id: 6,
     departure: "Lille",
     destination: "Strasbourg",
-    FavIc:"https://api-9ut4.onrender.com/static/assets/Lille:Strasbourg.png",
+    FavIc:"https://api-9ut4.onrender.com/static/assets/LilleStrasbourg.svg",
     description: "Une ville européenne connue pour ses canaux et son marché de Noël.",
     images: "https://api-9ut4.onrender.com/static/assets/Lille.jpg",
     drivers: [
@@ -136,7 +136,7 @@ const datas = [
     id: 7,
     departure: "Bordeaux",
     destination: "Nice",
-    FavIc:"https://api-9ut4.onrender.com/static/assets/Bordeaux:Nice.png",
+    FavIc:"https://api-9ut4.onrender.com/static/assets/BordeauxNice.svg",
     description: "Une ville chaleureuse avec une vie nocturne animée et une riche histoire.",
     images: "https://api-9ut4.onrender.com/static/assets/Bordeaux.jpg",
     drivers: [
@@ -155,7 +155,7 @@ const datas = [
     id: 8,
     departure: "Montpellier",
     destination: "Bordeaux",
-    FavIc:"https://api-9ut4.onrender.com/static/assets/Montpellier:Bordeaux.png",
+    FavIc:"https://api-9ut4.onrender.com/static/assets/MontpellierBordeaux.svg",
     description: "La capitale mondiale du vin, bordée par la Garonne.",
     images: "https://api-9ut4.onrender.com/static/assets/Montpellier.jpg",
     drivers: [
@@ -174,7 +174,7 @@ const datas = [
     id: 9,
     departure: "Saaaaalut",
     destination: "les gars !",
-    FavIc:"https://api-9ut4.onrender.com/static/assets/Paris:Enfer.png",
+    FavIc:"https://api-9ut4.onrender.com/static/assets/ParadisEnfer.svg",
     description: "Une ville ensoleillée, dynamique et proche de la mer.",
     images: "https://api-9ut4.onrender.com/static/assets/ParadisEnfer.jpg",
     drivers: [

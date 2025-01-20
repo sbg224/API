@@ -29,6 +29,11 @@ const datas = [
     departure: "Toulouse",
     destination: "Nice",
     conducteur: "https://api-9ut4.onrender.com/static/assets/Conducteur2.jpg",
+    onglets: [
+      { onglet1: "https://api-9ut4.onrender.com/static/assets/Onglet1kansas-city-5111837_1280.jpg" },
+      { onglet2: "https://api-9ut4.onrender.com/static/assets/Onglet2buildings-1835647_1280.jpg" },
+      { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3architecture-3592318_1280.jpg" },
+    ],
     FavIc:"https://api-9ut4.onrender.com/static/assets/ToulouseNice.svg",
     description: "La cité phocéenne, réputée pour son vieux port et sa bouillabaisse.",
     images: "https://api-9ut4.onrender.com/static/assets/Toulouse.jpg",

@@ -10,7 +10,7 @@ const datas = [
       { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3cologne-cathedral-5512117_1280.jpg" },
     ],
     FavIc:"https://api-9ut4.onrender.com/static/assets/ParIsLyon.svg",
-    description: "La ville lumière, célèbre pour sa Tour Eiffel et ses soirées inoubliables.",
+    description: "La ville lumière, célèbre pour sa Tour Eiffel et ses soirées inoubliables. Venez découvrir la Tour Eiffel",
     images: "https://api-9ut4.onrender.com/static/assets/Paris.jpg",
     drivers: [
       { name: "Jean Dupont", experience: "15 ans", contact: "jean.dupont@example.com" },
@@ -35,7 +35,7 @@ const datas = [
       { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3architecture-3592318_1280.jpg" },
     ],
     FavIc:"https://api-9ut4.onrender.com/static/assets/ToulouseNice.svg",
-    description: "La cité phocéenne, réputée pour son vieux port et sa bouillabaisse.",
+    description: "La cité phocéenne, réputée pour son vieux port et sa bouillabaisse et pleins d'autres magnifique monuments.",
     images: "https://api-9ut4.onrender.com/static/assets/Toulouse.jpg",
     drivers: [
       { name: "Pierre Bernard", experience: "12 ans", contact: "pierre.bernard@example.com" },
@@ -60,7 +60,7 @@ const datas = [
       { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3new-york-city-2263343_1280.jpg" },
     ],
     FavIc:"https://api-9ut4.onrender.com/static/assets/MarseilleToulouse.svg",
-    description: "La capitale de la gastronomie française, située entre deux fleuves.",
+    description: "La capitale de la gastronomie française, située entre deux fleuves.C'est vraiment une super destination.",
     images: "https://api-9ut4.onrender.com/static/assets/Marseille.jpg",
     drivers: [
       { name: "Claude Lefèvre", experience: "14 ans", contact: "claude.lefevre@example.com" },
@@ -85,7 +85,7 @@ const datas = [
     ],
     conducteur: "https://api-9ut4.onrender.com/static/assets/Conducteur4.jpg",
     FavIc:"https://api-9ut4.onrender.com/static/assets/NantesToulouse.svg",
-    description: "La ville rose, connue pour son industrie aéronautique et ses charmantes rues.",
+    description: "La ville rose, connue pour son industrie aéronautique et ses charmantes rues.Vous allez voir, c'est magnifique.",
     images: "https://api-9ut4.onrender.com/static/assets/Nantes.jpg",
     drivers: [
       { name: "Marc Lemoine", experience: "11 ans", contact: "marc.lemoine@example.com" },
@@ -110,7 +110,7 @@ const datas = [
       { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3buildings-5901178_1280.jpg" },
     ],
     FavIc:"https://api-9ut4.onrender.com/static/assets/NantesNice.svg",
-    description: "Ville méditerranéenne célèbre pour sa promenade des Anglais et ses plages.",
+    description: "Ville méditerranéenne célèbre pour sa promenade des Anglais et ses plages. Vous n'allez pas en revenir !",
     images: "https://api-9ut4.onrender.com/static/assets/Nice.jpg",
     drivers: [
       { name: "Lucas Morel", experience: "8 ans", contact: "lucas.morel@example.com" },
@@ -135,7 +135,7 @@ const datas = [
       { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3railway-station-1363771_1280.jpg" },
     ],
     FavIc:"https://api-9ut4.onrender.com/static/assets/StrasbourgNice.svg",
-    description: "Une ville dynamique avec des machines géantes et une riche culture.",
+    description: "Une ville dynamique avec des machines géantes et une riche culture. Vous n'allez pas le regretter, promis !",
     images: "https://api-9ut4.onrender.com/static/assets/Strasbourg.jpg",
     drivers: [
       { name: "Julien Fabre", experience: "10 ans", contact: "julien.fabre@example.com" },
@@ -160,7 +160,7 @@ const datas = [
       { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3kansas-city-5111832_1280.jpg" },
     ],
     FavIc:"https://api-9ut4.onrender.com/static/assets/LilleStrasbourg.svg",
-    description: "Une ville européenne connue pour ses canaux et son marché de Noël.",
+    description: "Une ville européenne connue pour ses canaux et son marché de Noël. C'est vraiment une destination exeptionelle !",
     images: "https://api-9ut4.onrender.com/static/assets/Lille.jpg",
     drivers: [
       { name: "Laurent Millet", experience: "13 ans", contact: "laurent.millet@example.com" },
@@ -185,7 +185,7 @@ const datas = [
       { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3metropolitan-2354546_1280.jpg" },
     ],
     FavIc:"https://api-9ut4.onrender.com/static/assets/BordeauxNice.svg",
-    description: "Une ville chaleureuse avec une vie nocturne animée et une riche histoire.",
+    description: "Une ville chaleureuse avec une vie nocturne animée et une riche histoire. Tellement inoubliable, vous allez voir !",
     images: "https://api-9ut4.onrender.com/static/assets/Bordeaux.jpg",
     drivers: [
       { name: "Benoît Perrin", experience: "9 ans", contact: "benoit.perrin@example.com" },
@@ -210,7 +210,7 @@ const datas = [
       { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3eilean-donan-5570684_1280.jpg" },
     ],
     FavIc:"https://api-9ut4.onrender.com/static/assets/MontpellierBordeaux.svg",
-    description: "La capitale mondiale du vin, bordée par la Garonne.",
+    description: "La capitale mondiale du vin, bordée par la Garonne. Une destination de rêve pour des voyageurs. C'est le top !",
     images: "https://api-9ut4.onrender.com/static/assets/Montpellier.jpg",
     drivers: [
       { name: "Mathieu Lambert", experience: "12 ans", contact: "mathieu.lambert@example.com" },
@@ -222,31 +222,6 @@ const datas = [
     ],
     schedules: [
       { date: "05/04/2025", time: "03:20" },
-    ],
-  },
-  {
-    id: 9,
-    departure: "Saaaaalut",
-    destination: "les gars !",
-    conducteur: "https://api-9ut4.onrender.com/static/assets/Conducteur10.jpg",
-    onglets: [
-      { onglet1: "https://api-9ut4.onrender.com/static/assets/Onglet1melbourne-1587291_1280.jpg" },
-      { onglet2: "https://api-9ut4.onrender.com/static/assets/Onglet2new-york-2335664_1280.jpg" },
-      { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3london-4430030_1280.jpg" },
-    ],
-    FavIc:"https://api-9ut4.onrender.com/static/assets/ParadisEnfer.svg",
-    description: "Une ville ensoleillée, dynamique et proche de la mer.",
-    images: "https://api-9ut4.onrender.com/static/assets/ParadisEnfer.jpg",
-    drivers: [
-      { name: "Paul Rivière", experience: "10 ans", contact: "paul.riviere@example.com" },
-      { name: "Alice Brun", experience: "6 ans", contact: "alice.brun@example.com" },
-    ],
-    buses: [
-      { model: "Mercedes Travego", capacity: 50, amenities: ["Bar", "Wi-Fi", "Toilettes"] },
-      { model: "Van Hool TX", capacity: 55, amenities: ["USB", "Ecran HD", "Climatisation"] },
-    ],
-    schedules: [
-      { date: "jamais épuisé", time: "la team" },
     ],
   },
 ];

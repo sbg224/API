@@ -35,7 +35,7 @@ const datas = [
       { onglet3: "https://api-9ut4.onrender.com/static/assets/Onglet3architecture-3592318_1280.jpg" },
     ],
     FavIc:"https://api-9ut4.onrender.com/static/assets/ToulouseNice.svg",
-    description: "La cité phocéenne, réputée pour son vieux port et sa bouillabaisse.",
+    description: "La cité phocéenne, réputée pour son vieux port et sa bouillabaisse. Venez visitez la ville rose !",
     images: "https://api-9ut4.onrender.com/static/assets/Toulouse.jpg",
     drivers: [
       { name: "Pierre Bernard", experience: "12 ans", contact: "pierre.bernard@example.com" },
